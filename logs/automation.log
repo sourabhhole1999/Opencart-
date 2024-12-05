@@ -1,0 +1,98 @@
+11:56:40.627 [main] INFO  testCases.TC_002_LoginTest - logger.info("**** Starting TC_002_LoginTest  ****")
+11:56:41.807 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+11:56:42.313 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+11:56:42.316 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+11:56:43.636 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+11:56:43.705 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+12:39:02.968 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+12:39:14.310 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+12:39:24.339 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+12:39:34.419 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+12:39:44.498 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+12:42:29.052 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+12:42:40.237 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+12:42:44.238 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+12:42:51.274 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+12:42:51.280 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+12:45:03.673 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+12:45:04.873 [main] INFO  testCases.TC_003_LoginDDT - click to login button
+12:45:16.491 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+12:45:16.502 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+12:45:16.508 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+12:45:16.516 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:33:18.319 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:33:19.393 [main] INFO  testCases.TC_003_LoginDDT - click to login button
+13:33:29.438 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:33:39.476 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:33:49.549 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:33:59.625 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:35:46.097 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:35:47.282 [main] INFO  testCases.TC_003_LoginDDT - click to login button
+13:35:57.358 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:36:07.444 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:36:17.533 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:36:20.796 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+14:18:38.415 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_OO1_TC_001_AccountRegistrationTest*****
+14:18:44.310 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Finished TC_001_TC_001_AccountRegistrationTest *****
+14:18:47.031 [main] INFO  testCases.TC_002_LoginTest - logger.info("**** Starting TC_002_LoginTest  ****")
+14:18:48.286 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+14:18:48.652 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+14:18:48.655 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+14:18:49.962 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+14:18:50.035 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+14:21:39.600 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_OO1_TC_001_AccountRegistrationTest*****
+14:21:45.646 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Finished TC_001_TC_001_AccountRegistrationTest *****
+14:21:48.522 [main] INFO  testCases.TC_002_LoginTest - logger.info("**** Starting TC_002_LoginTest  ****")
+14:21:49.962 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+14:21:50.361 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+14:21:50.365 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+14:21:51.671 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+14:21:51.781 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+15:17:38.281 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_OO1_TC_001_AccountRegistrationTest*****
+15:17:42.612 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Finished TC_001_TC_001_AccountRegistrationTest *****
+15:17:44.786 [main] INFO  testCases.TC_002_LoginTest - logger.info("**** Starting TC_002_LoginTest  ****")
+15:17:45.308 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+15:17:45.566 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+15:17:45.568 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+15:17:46.388 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+15:17:46.428 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+15:19:59.283 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+15:20:02.047 [main] INFO  testCases.TC_003_LoginDDT - click to login button
+15:20:12.218 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+15:20:22.391 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+15:20:32.554 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+15:20:42.698 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:37:03.503 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:37:04.598 [main] INFO  testCases.TC_003_LoginDDT - click to login button
+16:37:53.138 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_OO1_TC_001_AccountRegistrationTest*****
+16:37:57.463 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Finished TC_001_TC_001_AccountRegistrationTest *****
+16:37:59.621 [main] INFO  testCases.TC_002_LoginTest - logger.info("**** Starting TC_002_LoginTest  ****")
+16:38:00.216 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+16:38:00.487 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+16:38:00.489 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+16:38:01.437 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+16:38:01.479 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+16:38:43.820 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_OO1_TC_001_AccountRegistrationTest*****
+16:38:47.971 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Finished TC_001_TC_001_AccountRegistrationTest *****
+16:38:50.077 [main] INFO  testCases.TC_002_LoginTest - logger.info("**** Starting TC_002_LoginTest  ****")
+16:38:50.627 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+16:38:50.890 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+16:38:50.892 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+16:38:51.795 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+16:38:51.835 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+11:49:11.897 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_OO1_TC_001_AccountRegistrationTest*****
+11:49:16.673 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Finished TC_001_TC_001_AccountRegistrationTest *****
+11:49:18.976 [main] INFO  testCases.TC_002_LoginTest - logger.info("**** Starting TC_002_LoginTest  ****")
+11:49:19.692 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+11:49:19.980 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+11:49:19.983 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+11:49:21.361 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+11:49:21.427 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+14:03:15.906 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_OO1_TC_001_AccountRegistrationTest*****
+14:03:22.487 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Finished TC_001_TC_001_AccountRegistrationTest *****
+14:03:25.457 [main] INFO  testCases.TC_002_LoginTest - logger.info("**** Starting TC_002_LoginTest  ****")
+14:03:26.785 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+14:03:27.198 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+14:03:27.202 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+14:03:29.033 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+14:03:29.109 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
